@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Lahore,Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musmankkh&label=Profile%20views&color=0e75b6&style=flat" alt="affan-ch" />
-<img src="https://img.shields.io/github/followers/malikkusman?label=Followers&style=flat&color=0e75b6" alt="Followers" /> </p>
+<img src="https://img.shields.io/github/followers/musmankkh?label=Followers&style=flat&color=0e75b6" alt="Followers" /> </p>
 
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Full-stack developer skilled in HTML, CSS, JavaScript, Node.js, React.js, and various databases including MongoDB and MySQL.
@@ -15,7 +15,7 @@
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> Connect with me and explore my projects below!
 
-- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m currently working on [Information Retrieval Project](https://github.com/malikkusman/Information-Retrieval-Fall-2024.git),  [Complier Constructor Project](https://github.com/malikkusman/Compiler-Construction-Lab-Fall-2024.git),  [Natural Language Processing](https://github.com/malikkusman/Natural-Language-Processing.git)
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m currently working on [Information Retrieval Project](https://github.com/musmankkh/Information-Retrieval-Fall-2024.git),  [Complier Constructor Project](https://github.com/musmankkh/Compiler-Construction-Lab-Fall-2024.git),  [Natural Language Processing](https://github.com/musmankkh/Natural-Language-Processing.git)
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> I’m currently learning **ReactJS, NextJS, Angular**
 
@@ -84,7 +84,7 @@
 
 <h3><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" />  My Contribution Graph</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=malikkusman&hide_border=true&theme=react-dark&custom_title=Usman%27s+Contribution+Graph+%28Last+30+Days%29&area=true"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=musmankkh&hide_border=true&theme=react-dark&custom_title=Usman%27s+Contribution+Graph+%28Last+30+Days%29&area=true"  />
 
 
 
@@ -98,11 +98,11 @@
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=malikkusman&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=1" height="220" alt="Streak Graph"  /> <br>
+  <img src="https://streak-stats.demolab.com/?user=musmankkh&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=1" height="220" alt="Streak Graph"  /> <br>
  
-  <img src="https://github-readme-stats.vercel.app/api?username=malikkusman&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=2&icon_color=39D353&border_color=39D353&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="300" width="600" alt="Stats Graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=musmankkh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=2&icon_color=39D353&border_color=39D353&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="300" width="600" alt="Stats Graph" /> <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malikkusman&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&border_color=39D353&order=3&disable_animations=true" height="180" alt="Languages Graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musmankkh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&border_color=39D353&order=3&disable_animations=true" height="180" alt="Languages Graph" /> <br>
   
 </div>
 
